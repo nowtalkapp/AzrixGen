@@ -31,7 +31,7 @@ Clone this repository or download the source code as a ZIP file.
 Bash
 
 Copy
-git clone https://github.com/coolschool/AzrixGen.git
+git clone https://github.com/nowtalkapp/AzrixGen.git
 Step 2: Install Dependencies
 This tool requires the requests library. Open your terminal/command prompt and run:
 Bash
